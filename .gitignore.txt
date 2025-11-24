@@ -1,0 +1,9 @@
+# Ignorar el entorno virtual
+.venv/
+
+# Ignorar archivos de PyCharm
+.idea/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
